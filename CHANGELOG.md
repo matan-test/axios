@@ -3,6 +3,7 @@
 # [1.7.0-beta.0](https://github.com/axios /axios/compare/v1.6.8...v1.7.0-beta.0) (2024-04-28)
 
 
+
 ### Features
 
 * **adapter:** add fetch adapter; ([#6371](https://github.com/axios/axios/issues/6371)) ([a3ff99b](https://github.com/axios/axios/commit/a3ff99b59d8ec2ab5dd049e68c043617a4072e42))
