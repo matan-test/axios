@@ -10,6 +10,7 @@
          <source width="400px" media="(prefers-color-scheme: light)" srcset="https://github.com/axios/axios/assets/4814473/75c37f4d-36e6-44f5-a068-3edd77c00a10">
          <img width="400px" src="https://github.com/axios/axios/assets/4814473/75c37f4d-36e6-44f5-a068-3edd77c00a10" />
        </picture>
+      
    </a>
    
    <p align="center">Alloy is the integration development platform that makes it simple and <br>fast for SaaS companies to launch critical user-facing integrations.</p>
