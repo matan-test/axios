@@ -14,6 +14,7 @@ function createCustomLauncher(browser, version, platform) {
     base: 'SauceLabs',
     browserName: browser,
     version: version,
+    
     platform: platform
   };
 }
